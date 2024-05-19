@@ -55,6 +55,7 @@ Implemented a system to extract patient information from medical documents using
 
 Technologies Utilized: RAG, LLM, LLAMA2, llamaindex
 
+
 **Number Plate Detection and Recognition**
 
 Designed and implemented a Chinese number plate detection and recognition system to extract number plate information from car images.
