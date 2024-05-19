@@ -12,6 +12,48 @@
 
 ## Projects
 
+**Fine-Tuning Stable Diffusion for Personalized Image Generation**
+
+Engineered prompts and utilized stable diffusion techniques to fine-tune the model for generating personalized images.
+
+- Applied prompt engineering methodologies to tailor the stable diffusion model for personalized image generation.
+- Leveraged stable diffusion techniques to ensure stable and high-quality image generation results.
+- Implemented the solution using Python programming language.
+
+Technologies Utilized: Prompt Engineering, Stable Diffusion, Python
+
+**Chatbot Development with ChatGPT API**
+
+Developed a personalized chatbot with persona using the ChatGPT API.
+
+- Implemented prompt engineering techniques to customize the chatbot's responses based on user inputs and predefined personas.
+- Utilized the ChatGPT API for natural language processing and response generation.
+- Developed the solution using Python programming language.
+
+Technologies Utilized: ChatGPT, Prompt Engineering, Python
+
+**AI-Assisted Data Labeling**
+
+Implemented AI models to assist human labelers, enhancing labeling efficiency and accuracy.
+
+- Trained AI models to provide initial labels, minimizing the need for human labelers to start from scratch.
+- Human labelers only need to correct mistakes made by the AI model, streamlining the labeling process.
+- Conducted training sessions for labelers to ensure they understand and effectively utilize the AI-assisted labeling system.
+- Established labeling standards, setup labeling tools, and performed quality checks to maintain labeling accuracy.
+- Utilized Keras, TensorFlow, OpenCV, Python, and various techniques such as image recognition, object detection, OCR, and Label Studio for efficient AI-assisted data labeling.
+
+Technologies Utilized: Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, OCR, Label Studio
+
+
+**Medical Document Patient Information Retrieval using LLM**
+
+Implemented a system to extract patient information from medical documents using LLM.
+
+- Utilized BaiduOCR for initial OCR results of medical document images.
+- Leveraged LLAM2, llamaindex, and Retrieval Augmented Generation (RAG) techniques for accurate extraction of patient information from medical document images.
+
+Technologies Utilized: RAG, LLM, LLAMA2, llamaindex
+
 **Number Plate Detection and Recognition**
 
 Designed and implemented a Chinese number plate detection and recognition system to extract number plate information from car images.
@@ -61,6 +103,13 @@ Developed car part segmentation models to segment visible car parts in images.
 - Successfully deployed the models to segment visible car parts in images.
 
 Technologies Utilized: UNet, Image Segmentation, OpenCV, Python, TensorFlow, Keras
+
+
+**Waste Management Using Blockchain**
+
+- Developed a project proposal outlining the exploration of blockchain integration in waste management.
+
+Technologies Utilized: Blockchain
 
 **Image Categorizers**
 
@@ -132,14 +181,6 @@ Developed a comprehensive system for medical document classification and OCR.
 
 Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, OCR
 
-**Medical Document Patient Information Retrieval using LLM**
-
-Implemented a system to extract patient information from medical documents using LLM.
-
-- Utilized BaiduOCR for initial OCR results of medical document images.
-- Leveraged LLAM2, llamaindex, and Retrieval Augmented Generation (RAG) techniques for accurate extraction of patient information from medical document images.
-
-Technologies Utilized: RAG, LLM, LLAMA2, llamaindex
 
 **Table Detection in Medical Documents and OCR**
 
@@ -161,40 +202,4 @@ Implemented a system to add a unique company watermark to images using OpenCV.
 
 Technologies Utilized: OpenCV, Python
 
-**AI-Assisted Data Labeling**
 
-Implemented AI models to assist human labelers, enhancing labeling efficiency and accuracy.
-
-- Trained AI models to provide initial labels, minimizing the need for human labelers to start from scratch.
-- Human labelers only need to correct mistakes made by the AI model, streamlining the labeling process.
-- Conducted training sessions for labelers to ensure they understand and effectively utilize the AI-assisted labeling system.
-- Established labeling standards, setup labeling tools, and performed quality checks to maintain labeling accuracy.
-- Utilized Keras, TensorFlow, OpenCV, Python, and various techniques such as image recognition, object detection, OCR, and Label Studio for efficient AI-assisted data labeling.
-
-Technologies Utilized: Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, OCR, Label Studio
-
-**Fine-Tuning Stable Diffusion for Personalized Image Generation**
-
-Engineered prompts and utilized stable diffusion techniques to fine-tune the model for generating personalized images.
-
-- Applied prompt engineering methodologies to tailor the stable diffusion model for personalized image generation.
-- Leveraged stable diffusion techniques to ensure stable and high-quality image generation results.
-- Implemented the solution using Python programming language.
-
-Technologies Utilized: Prompt Engineering, Stable Diffusion, Python
-
-**Chatbot Development with ChatGPT API**
-
-Developed a personalized chatbot with persona using the ChatGPT API.
-
-- Implemented prompt engineering techniques to customize the chatbot's responses based on user inputs and predefined personas.
-- Utilized the ChatGPT API for natural language processing and response generation.
-- Developed the solution using Python programming language.
-
-Technologies Utilized: ChatGPT, Prompt Engineering, Python
-
-**Waste Management Using Blockchain**
-
-- Developed a project proposal outlining the exploration of blockchain integration in waste management.
-
-Technologies Utilized: Blockchain
