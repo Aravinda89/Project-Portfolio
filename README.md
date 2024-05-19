@@ -19,7 +19,7 @@ Engineered prompts and utilized stable diffusion techniques to fine-tune the mod
 - Leveraged stable diffusion techniques to ensure stable and high-quality image generation results.
 - Implemented the solution using Python programming language.
 Technologies Utilized: Prompt Engineering, Stable Diffusion, Python
-
+---
 
 **Chatbot Development with ChatGPT API**
 Developed a personalized chatbot with persona using the ChatGPT API.
@@ -29,7 +29,7 @@ Developed a personalized chatbot with persona using the ChatGPT API.
 - Developed the solution using Python programming language.
 
 Technologies Utilized: ChatGPT, Prompt Engineering, Python
-
+---
 
 **AI-Assisted Data Labeling**
 Implemented AI models to assist human labelers, enhancing labeling efficiency and accuracy.
@@ -41,7 +41,7 @@ Implemented AI models to assist human labelers, enhancing labeling efficiency an
 - Utilized Keras, TensorFlow, OpenCV, Python, and various techniques such as image recognition, object detection, OCR, and Label Studio for efficient AI-assisted data labeling.
 
 Technologies Utilized: Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, OCR, Label Studio
-
+---
 
 **Medical Document Patient Information Retrieval using LLM**
 
@@ -51,7 +51,7 @@ Implemented a system to extract patient information from medical documents using
 - Leveraged LLAM2, llamaindex, and Retrieval Augmented Generation (RAG) techniques for accurate extraction of patient information from medical document images.
 
 Technologies Utilized: RAG, LLM, LLAMA2, llamaindex
-
+---
 
 **Number Plate Detection and Recognition**
 
