@@ -34,6 +34,7 @@ Developed a personalized chatbot with persona using the ChatGPT API.
 
 Technologies Utilized: ChatGPT, Prompt Engineering, Python
 
+
 **AI-Assisted Data Labeling**
 
 Implemented AI models to assist human labelers, enhancing labeling efficiency and accuracy.
