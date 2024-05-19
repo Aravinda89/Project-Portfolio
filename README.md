@@ -32,7 +32,6 @@ Technologies Utilized: ChatGPT, Prompt Engineering, Python
 
 
 **AI-Assisted Data Labeling**
-
 Implemented AI models to assist human labelers, enhancing labeling efficiency and accuracy.
 
 - Trained AI models to provide initial labels, minimizing the need for human labelers to start from scratch.
