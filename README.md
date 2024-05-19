@@ -14,15 +14,12 @@ This portfolio consists of a compilation of projects that I created for various 
 ## Projects
 
 **Fine-Tuning Stable Diffusion for Personalized Image Generation**
-
 Engineered prompts and utilized stable diffusion techniques to fine-tune the model for generating personalized images.
 
 - Applied prompt engineering methodologies to tailor the stable diffusion model for personalized image generation.
 - Leveraged stable diffusion techniques to ensure stable and high-quality image generation results.
 - Implemented the solution using Python programming language.
-
 Technologies Utilized: Prompt Engineering, Stable Diffusion, Python
-
 
 **Chatbot Development with ChatGPT API**
 
@@ -33,7 +30,6 @@ Developed a personalized chatbot with persona using the ChatGPT API.
 - Developed the solution using Python programming language.
 
 Technologies Utilized: ChatGPT, Prompt Engineering, Python
-
 
 **AI-Assisted Data Labeling**
 
