@@ -2,7 +2,7 @@
 This portfolio consists of a compilation of projects that I created for various purposes, demonstrating my skills and experiences in different areas.
 
 ## Blog Posts
-*[How to split image dataset into train, validation and test set?]([http://localhost/ "link title"](https://aravinda-gn.medium.com/how-to-split-image-dataset-into-train-validation-and-test-set-5a41c48af332))
+*[How to split image dataset into train, validation and test set?](https://aravinda-gn.medium.com/how-to-split-image-dataset-into-train-validation-and-test-set-5a41c48af332)
 * How to use Kaggle datasets in Google Colab?
 * Nonlinearity and Neural Networks
 * Impact of AI on Social Engineering
