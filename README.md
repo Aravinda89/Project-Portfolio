@@ -89,7 +89,7 @@ Developed a series of computer vision AI models to automatically detect and extr
 - Successfully deployed these models in operational settings for information extraction from images.
 - Technologies Utilized: CNN, YOLO, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, LabelStudio
 
-<img width="366" alt="Screenshot 2024-05-19 224927" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/8fe992d7-2d9b-4d92-8679-f90d1e4efbb0"><img width="366" alt="Screenshot 2024-05-19 224927" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/8fe992d7-2d9b-4d92-8679-f90d1e4efbb0">
+<img width="366" alt="Screenshot 2024-05-19 224927" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/8fe992d7-2d9b-4d92-8679-f90d1e4efbb0"> <img width="366" alt="Screenshot 2024-05-19 224927" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/8fe992d7-2d9b-4d92-8679-f90d1e4efbb0">
 
 ---
 
