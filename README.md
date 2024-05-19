@@ -2,14 +2,13 @@
 This portfolio consists of a compilation of projects that I created for various purposes, demonstrating my skills and experiences in different areas.
 
 ## Blog Posts
-* How to split image dataset into train, validation and test set?
+*[How to split image dataset into train, validation and test set?]([http://localhost/ "link title"](https://aravinda-gn.medium.com/how-to-split-image-dataset-into-train-validation-and-test-set-5a41c48af332))
 * How to use Kaggle datasets in Google Colab?
 * Nonlinearity and Neural Networks
 * Impact of AI on Social Engineering
 * Fastai Car Type Classification Model Using a Custom Dataset
 * How to Deploy Fast.ai Models? (Voilà , Binder and Heroku)
 * Computer Vision Archetypal Problems
-
 
 ## Projects
 
@@ -20,8 +19,6 @@ Engineered prompts and utilized stable diffusion techniques to fine-tune the mod
 - Leveraged stable diffusion techniques to ensure stable and high-quality image generation results.
 - Implemented the solution using Python programming language.
 Technologies Utilized: Prompt Engineering, Stable Diffusion, Python
-
-
 
 
 **Chatbot Development with ChatGPT API**
