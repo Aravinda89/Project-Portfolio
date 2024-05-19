@@ -1,4 +1,5 @@
 # Project Portfolio
+
 This portfolio consists of a compilation of projects that I created for various purposes, demonstrating my skills and experiences in different areas.
 
 ## Blog Posts
@@ -9,11 +10,13 @@ This portfolio consists of a compilation of projects that I created for various 
 * [Fastai Car Type Classification Model Using a Custom Dataset](https://medium.com/unpackai/creating-a-fastai-car-type-classification-model-using-a-custom-dataset-653457b26056)
 * [How to Deploy Fast.ai Models? (Voilà , Binder and Heroku)](https://medium.com/unpackai/how-to-deploy-fast-ai-models-8704ea711ad2)
 * [Computer Vision Archetypal Problems](https://medium.com/unpackai/computer-vision-archetypal-problems-c56b6cf4a507)
+
 ---
 
 ## Projects
 
 **Fine-Tuning Stable Diffusion for Personalized Image Generation**
+
 Engineered prompts and utilized stable diffusion techniques to fine-tune the model for generating personalized images.
 
 - Applied prompt engineering methodologies to tailor the stable diffusion model for personalized image generation.
@@ -24,6 +27,7 @@ Engineered prompts and utilized stable diffusion techniques to fine-tune the mod
 ---
 
 **Chatbot Development with ChatGPT API**
+
 Developed a personalized chatbot with persona using the ChatGPT API.
 
 - Implemented prompt engineering techniques to customize the chatbot's responses based on user inputs and predefined personas.
@@ -34,6 +38,7 @@ Developed a personalized chatbot with persona using the ChatGPT API.
 ---
 
 **AI-Assisted Data Labeling**
+
 Implemented AI models to assist human labelers, enhancing labeling efficiency and accuracy.
 
 - Trained AI models to provide initial labels, minimizing the need for human labelers to start from scratch.
@@ -76,10 +81,10 @@ Developed a series of computer vision AI models to automatically detect and extr
 - Conducted in-house data collection and established labeling standards. Trained data labelers and conducted quality checks to ensure accurate labeling.
 - Created datasets for damage detection and recognition.
 - Developed various AI models to automatically extract information about damaged car parts, including:
-    - Detection and recognition of damaged and undamaged parts.
-    - Classification of damaged severity (e.g., destroyed, scratched, deformed, bent).
-    - Recognition of repair or replacement needs for car parts.
-    - Detection of damaged areas within car images.
+  - Detection and recognition of damaged and undamaged parts.
+  - Classification of damaged severity (e.g., destroyed, scratched, deformed, bent).
+  - Recognition of repair or replacement needs for car parts.
+  - Detection of damaged areas within car images.
 - Created a demo to showcase the functionality of the developed models.
 - Successfully deployed these models in operational settings for information extraction from images.
 - Technologies Utilized: CNN, YOLO, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, LabelStudio
@@ -111,7 +116,8 @@ Developed car part segmentation models to segment visible car parts in images.
 
 **Waste Management Using Blockchain**
 
-- Developed a project proposal outlining the exploration of blockchain integration in waste management.
+Developed a project proposal outlining the exploration of blockchain integration in waste management.
+
 - Technologies Utilized: Blockchain
 
 ---
@@ -123,12 +129,12 @@ Developed various classifier models to automatically categorize and process imag
 - Conducted in-house data collection, established labeling standards, and trained data labelers to ensure accurate labeling and quality control.
 - Built classifiers to categorize images into different types such as car images, car components, documents, driver images, and car interiors.
 - Developed specific classifiers for:
-    - Car brand type classification
-    - Car model type classification
-    - Car viewpoint type classification (e.g., front, back, right side, left side)
-    - Car type classification (e.g., sedan, truck, jeep)
-    - Document type classification (e.g., ID card, driver's license, vehicle license, VIN, bank card)
-    - Car color classification
+  - Car brand type classification
+  - Car model type classification
+  - Car viewpoint type classification (e.g., front, back, right side, left side)
+  - Car type classification (e.g., sedan, truck, jeep)
+  - Document type classification (e.g., ID card, driver's license, vehicle license, VIN, bank card)
+  - Car color classification
 - Utilized CNN, Keras, TensorFlow, OpenCV, and Python for model development and deployment.
 - Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition
 
@@ -185,33 +191,3 @@ Developed a comprehensive system for car wheel alignment screen image OCR.
 Developed a comprehensive system for medical document classification and OCR.
 
 - Implemented a medical image type classifier to distinguish between different types of medical documents such as patient medical records and diagnosis proofs. Utilized keyword search for further classification.
-- Developed a document image quality check model to separate good quality images from bad quality ones, ensuring accurate OCR results.
-- Implemented a handwritten document detection algorithm to distinguish handwritten documents from printed ones.
-- Integrated BaiduOCR for OCR processing of medical document images, providing accurate text extraction.
-- Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, OCR
-
----
-
-**Table Detection in Medical Documents and OCR**
-
-Developed a system to detect tables within medical documents and extract information using OCR.
-
-- Utilized Keras, TensorFlow, and OpenCV for table detection employing object detection techniques.
-- Implemented OCR to extract information contained within the detected tables.
-- Successfully integrated the system to accurately detect tables and extract information from medical documents.
-- Technologies Utilized: Keras, TensorFlow, OpenCV, Python, Object Detection, OCR
-
----
-
-**Image Watermarking with Company Logo**
-
-Implemented a system to add a unique company watermark to images using OpenCV.
-
-- Utilized OpenCV and Python for efficient image processing and watermarking.
-- Integrated a unique company logo as a watermark to ensure image authenticity and branding.
-- Successfully applied the watermarking process to images, preserving their original content while adding the company's branding.
-- Technologies Utilized: OpenCV, Python
-
----
-
-
