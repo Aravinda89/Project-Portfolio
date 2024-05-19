@@ -3,12 +3,12 @@ This portfolio consists of a compilation of projects that I created for various 
 
 ## Blog Posts
 *[How to split image dataset into train, validation and test set?](https://aravinda-gn.medium.com/how-to-split-image-dataset-into-train-validation-and-test-set-5a41c48af332)
-* How to use Kaggle datasets in Google Colab?
-* Nonlinearity and Neural Networks
-* Impact of AI on Social Engineering
-* Fastai Car Type Classification Model Using a Custom Dataset
-* How to Deploy Fast.ai Models? (Voilà , Binder and Heroku)
-* Computer Vision Archetypal Problems
+*[How to use Kaggle datasets in Google Colab?](https://medium.com/unpackai/how-to-use-kaggle-datasets-in-google-colab-f9b2e4b5767c)
+*[Nonlinearity and Neural Networks](https://medium.com/unpackai/nonlinearity-and-neural-networks-2ffaaac0e6ff)
+*[Impact of AI on Social Engineering](https://medium.com/unpackai/impact-of-ai-on-social-engineering-e9bd763a77db)
+*[Fastai Car Type Classification Model Using a Custom Dataset](https://medium.com/unpackai/creating-a-fastai-car-type-classification-model-using-a-custom-dataset-653457b26056)
+*[How to Deploy Fast.ai Models? (Voilà , Binder and Heroku](https://medium.com/unpackai/how-to-deploy-fast-ai-models-8704ea711ad2)
+*[Computer Vision Archetypal Problems](https://medium.com/unpackai/computer-vision-archetypal-problems-c56b6cf4a507)
 
 ## Projects
 
