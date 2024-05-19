@@ -1,4 +1,5 @@
 # Project Portfolio
+This portfolio consists of a compilation of projects that I created for various purposes, demonstrating my skills and experiences in different areas.
 
 ## Blog Posts
 * How to split image dataset into train, validation and test set?
@@ -21,6 +22,7 @@ Engineered prompts and utilized stable diffusion techniques to fine-tune the mod
 - Implemented the solution using Python programming language.
 
 Technologies Utilized: Prompt Engineering, Stable Diffusion, Python
+
 
 **Chatbot Development with ChatGPT API**
 
