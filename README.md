@@ -21,6 +21,7 @@ Engineered prompts and utilized stable diffusion techniques to fine-tune the mod
 - Implemented the solution using Python programming language.
 Technologies Utilized: Prompt Engineering, Stable Diffusion, Python
 
+
 **Chatbot Development with ChatGPT API**
 
 Developed a personalized chatbot with persona using the ChatGPT API.
@@ -30,6 +31,7 @@ Developed a personalized chatbot with persona using the ChatGPT API.
 - Developed the solution using Python programming language.
 
 Technologies Utilized: ChatGPT, Prompt Engineering, Python
+
 
 **AI-Assisted Data Labeling**
 
