@@ -22,7 +22,6 @@ Technologies Utilized: Prompt Engineering, Stable Diffusion, Python
 
 
 **Chatbot Development with ChatGPT API**
-
 Developed a personalized chatbot with persona using the ChatGPT API.
 
 - Implemented prompt engineering techniques to customize the chatbot's responses based on user inputs and predefined personas.
