@@ -1,10 +1,10 @@
 # Project Portfolio
 
-# Blog Posts
+## Blog Posts
 
 
 
-# Projects
+## Projects
 
 **Number Plate Detection and Recognition**
 
