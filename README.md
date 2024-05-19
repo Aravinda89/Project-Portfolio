@@ -65,6 +65,7 @@ Designed and implemented a Chinese number plate detection and recognition system
 - Successfully deployed the number plate detection and recognition pipeline to extract number plate information from images.
 
 Technologies Utilized: CNN, YOLO, OCR, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection
+---
 
 **Damage Car Part Detection/Recognition**
 
@@ -81,7 +82,7 @@ Developed a series of computer vision AI models to automatically detect and extr
 - Successfully deployed these models in operational settings for information extraction from images.
 
 Technologies Utilized: CNN, YOLO, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, LabelStudio
-
+---
 
 **Car Part Detection**
 
@@ -92,6 +93,7 @@ Developed a visible car part detection model to identify visible car parts in ca
 - Successfully deployed the model to detect visible car part information from images in operational settings.
 
 Technologies Utilized: YOLO, Keras, TensorFlow, OpenCV, Python, Object Detection
+---
 
 **Car Part Segmentation**
 
@@ -103,13 +105,14 @@ Developed car part segmentation models to segment visible car parts in images.
 - Successfully deployed the models to segment visible car parts in images.
 
 Technologies Utilized: UNet, Image Segmentation, OpenCV, Python, TensorFlow, Keras
-
+---
 
 **Waste Management Using Blockchain**
 
 - Developed a project proposal outlining the exploration of blockchain integration in waste management.
 
 Technologies Utilized: Blockchain
+---
 
 **Image Categorizers**
 
@@ -127,6 +130,7 @@ Developed various classifier models to automatically categorize and process imag
 - Utilized CNN, Keras, TensorFlow, OpenCV, and Python for model development and deployment.
 
 Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition
+---
 
 **Image Grouping by Car**
 
@@ -139,6 +143,7 @@ Developed a system to separate and group jumbled images belonging to multiple ca
 - Successfully separated and grouped images of each car using the developed system.
 
 Technologies Utilized: YOLO, CNN, KNN, Clustering, Image Recognition, Object Detection
+---
 
 **Document Classification and OCR**
 
@@ -149,6 +154,7 @@ Developed a system for document classification and OCR.
 - Separated different types of documents and utilized Baidu OCR to extract information from them.
 
 Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Classification, YOLO, Object Detection, BaiduOCR
+---
 
 **Document Orientation Detection and Correction**
 
@@ -159,6 +165,7 @@ Developed a system capable of detecting the orientation of documents and rectify
 - Successfully integrated the system to accurately detect and rectify document orientations.
 
 Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition
+---
 
 **Car Wheel Alignment Screen Image OCR**
 
@@ -169,6 +176,7 @@ Developed a comprehensive system for car wheel alignment screen image OCR.
 - Applied for a Chinese patent for the developed system, with the patent result currently pending.
 
 Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Classification, Object Detection, OCR
+---
 
 **Medical Document Classification and OCR**
 
@@ -180,7 +188,7 @@ Developed a comprehensive system for medical document classification and OCR.
 - Integrated BaiduOCR for OCR processing of medical document images, providing accurate text extraction.
 
 Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, OCR
-
+---
 
 **Table Detection in Medical Documents and OCR**
 
@@ -191,6 +199,7 @@ Developed a system to detect tables within medical documents and extract informa
 - Successfully integrated the system to accurately detect tables and extract information from medical documents.
 
 Technologies Utilized: Keras, TensorFlow, OpenCV, Python, Object Detection, OCR
+---
 
 **Image Watermarking with Company Logo**
 
@@ -201,5 +210,6 @@ Implemented a system to add a unique company watermark to images using OpenCV.
 - Successfully applied the watermarking process to images, preserving their original content while adding the company's branding.
 
 Technologies Utilized: OpenCV, Python
+---
 
 
