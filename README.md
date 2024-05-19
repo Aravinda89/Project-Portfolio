@@ -7,7 +7,7 @@ This portfolio consists of a compilation of projects that I created for various 
 * [Nonlinearity and Neural Networks](https://medium.com/unpackai/nonlinearity-and-neural-networks-2ffaaac0e6ff)
 * [Impact of AI on Social Engineering](https://medium.com/unpackai/impact-of-ai-on-social-engineering-e9bd763a77db)
 * [Fastai Car Type Classification Model Using a Custom Dataset](https://medium.com/unpackai/creating-a-fastai-car-type-classification-model-using-a-custom-dataset-653457b26056)
-* [How to Deploy Fast.ai Models? (Voilà , Binder and Heroku](https://medium.com/unpackai/how-to-deploy-fast-ai-models-8704ea711ad2)
+* [How to Deploy Fast.ai Models? (Voilà , Binder and Heroku)](https://medium.com/unpackai/how-to-deploy-fast-ai-models-8704ea711ad2)
 * [Computer Vision Archetypal Problems](https://medium.com/unpackai/computer-vision-archetypal-problems-c56b6cf4a507)
 
 ## Projects
