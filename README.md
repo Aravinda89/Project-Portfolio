@@ -19,6 +19,7 @@ Engineered prompts and utilized stable diffusion techniques to fine-tune the mod
 - Leveraged stable diffusion techniques to ensure stable and high-quality image generation results.
 - Implemented the solution using Python programming language.
 Technologies Utilized: Prompt Engineering, Stable Diffusion, Python
+
 ---
 
 **Chatbot Development with ChatGPT API**
@@ -28,6 +29,7 @@ Developed a personalized chatbot with persona using the ChatGPT API.
 - Utilized the ChatGPT API for natural language processing and response generation.
 - Developed the solution using Python programming language.
 Technologies Utilized: ChatGPT, Prompt Engineering, Python
+
 ---
 
 **AI-Assisted Data Labeling**
@@ -39,6 +41,7 @@ Implemented AI models to assist human labelers, enhancing labeling efficiency an
 - Established labeling standards, setup labeling tools, and performed quality checks to maintain labeling accuracy.
 - Utilized Keras, TensorFlow, OpenCV, Python, and various techniques such as image recognition, object detection, OCR, and Label Studio for efficient AI-assisted data labeling.
 Technologies Utilized: Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, OCR, Label Studio
+
 ---
 
 **Medical Document Patient Information Retrieval using LLM**
@@ -48,6 +51,7 @@ Implemented a system to extract patient information from medical documents using
 - Utilized BaiduOCR for initial OCR results of medical document images.
 - Leveraged LLAM2, llamaindex, and Retrieval Augmented Generation (RAG) techniques for accurate extraction of patient information from medical document images.
 Technologies Utilized: RAG, LLM, LLAMA2, llamaindex
+
 ---
 
 **Number Plate Detection and Recognition**
@@ -61,6 +65,7 @@ Designed and implemented a Chinese number plate detection and recognition system
 - Developed a demonstration to showcase the system's functionality.
 - Successfully deployed the number plate detection and recognition pipeline to extract number plate information from images.
 Technologies Utilized: CNN, YOLO, OCR, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection
+
 ---
 
 **Damage Car Part Detection/Recognition**
@@ -77,6 +82,7 @@ Developed a series of computer vision AI models to automatically detect and extr
 - Created a demo to showcase the functionality of the developed models.
 - Successfully deployed these models in operational settings for information extraction from images.
 Technologies Utilized: CNN, YOLO, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, LabelStudio
+
 ---
 
 **Car Part Detection**
@@ -87,6 +93,7 @@ Developed a visible car part detection model to identify visible car parts in ca
 - Utilized YOLO, Keras, TensorFlow, and OpenCV for model development.
 - Successfully deployed the model to detect visible car part information from images in operational settings.
 Technologies Utilized: YOLO, Keras, TensorFlow, OpenCV, Python, Object Detection
+
 ---
 
 **Car Part Segmentation**
@@ -98,12 +105,14 @@ Developed car part segmentation models to segment visible car parts in images.
 - Utilized OpenCV, Python, TensorFlow, and Keras for model development.
 - Successfully deployed the models to segment visible car parts in images.
 Technologies Utilized: UNet, Image Segmentation, OpenCV, Python, TensorFlow, Keras
+
 ---
 
 **Waste Management Using Blockchain**
 
 - Developed a project proposal outlining the exploration of blockchain integration in waste management.
 Technologies Utilized: Blockchain
+
 ---
 
 **Image Categorizers**
@@ -121,6 +130,7 @@ Developed various classifier models to automatically categorize and process imag
     - Car color classification
 - Utilized CNN, Keras, TensorFlow, OpenCV, and Python for model development and deployment.
 Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition
+
 ---
 
 **Image Grouping by Car**
@@ -133,6 +143,7 @@ Developed a system to separate and group jumbled images belonging to multiple ca
 - Implemented car color recognition to enhance grouping accuracy.
 - Successfully separated and grouped images of each car using the developed system.
 Technologies Utilized: YOLO, CNN, KNN, Clustering, Image Recognition, Object Detection
+
 ---
 
 **Document Classification and OCR**
@@ -143,6 +154,7 @@ Developed a system for document classification and OCR.
 - Built a detection model to identify and isolate various document types.
 - Separated different types of documents and utilized Baidu OCR to extract information from them.
 Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Classification, YOLO, Object Detection, BaiduOCR
+
 ---
 
 **Document Orientation Detection and Correction**
@@ -153,6 +165,7 @@ Developed a system capable of detecting the orientation of documents and rectify
 - Utilized OpenCV for efficient image processing and correction of improperly rotated documents.
 - Successfully integrated the system to accurately detect and rectify document orientations.
 Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition
+
 ---
 
 **Car Wheel Alignment Screen Image OCR**
@@ -163,6 +176,7 @@ Developed a comprehensive system for car wheel alignment screen image OCR.
 - Implemented OCR techniques to extract wheel alignment information from various types of wheel alignment screen images obtained from repair shops.
 - Applied for a Chinese patent for the developed system, with the patent result currently pending.
 Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Classification, Object Detection, OCR
+
 ---
 
 **Medical Document Classification and OCR**
@@ -174,6 +188,7 @@ Developed a comprehensive system for medical document classification and OCR.
 - Implemented a handwritten document detection algorithm to distinguish handwritten documents from printed ones.
 - Integrated BaiduOCR for OCR processing of medical document images, providing accurate text extraction.
 Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, OCR
+
 ---
 
 **Table Detection in Medical Documents and OCR**
@@ -184,6 +199,7 @@ Developed a system to detect tables within medical documents and extract informa
 - Implemented OCR to extract information contained within the detected tables.
 - Successfully integrated the system to accurately detect tables and extract information from medical documents.
 Technologies Utilized: Keras, TensorFlow, OpenCV, Python, Object Detection, OCR
+
 ---
 
 **Image Watermarking with Company Logo**
@@ -194,6 +210,7 @@ Implemented a system to add a unique company watermark to images using OpenCV.
 - Integrated a unique company logo as a watermark to ensure image authenticity and branding.
 - Successfully applied the watermarking process to images, preserving their original content while adding the company's branding.
 Technologies Utilized: OpenCV, Python
+
 ---
 
 
