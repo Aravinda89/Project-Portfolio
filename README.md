@@ -20,7 +20,7 @@ Engineered prompts and utilized stable diffusion techniques to fine-tune the mod
 - Leveraged stable diffusion techniques to ensure stable and high-quality image generation results.
 - Implemented the solution using Python programming language.
 Technologies Utilized: Prompt Engineering, Stable Diffusion, Python
-\n
+
 **Chatbot Development with ChatGPT API**
 
 Developed a personalized chatbot with persona using the ChatGPT API.
