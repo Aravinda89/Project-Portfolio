@@ -86,7 +86,6 @@ Developed a series of computer vision AI models to automatically detect and extr
 
 Technologies Utilized: CNN, YOLO, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, LabelStudio
 
-![111BAA7D-4DFD-4dcc-96E9-448881282C6C.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef2b851c-2998-48d5-bad7-3760b619d81c/1895e100-2096-4575-88d4-3ce413d5a5ce/111BAA7D-4DFD-4dcc-96E9-448881282C6C.png)
 
 **Car Part Detection**
 
