@@ -1,7 +1,13 @@
 # Project Portfolio
 
 ## Blog Posts
-
+How to split image dataset into train, validation and test set?
+How to use Kaggle datasets in Google Colab?
+Nonlinearity and Neural Networks
+Impact of AI on Social Engineering
+Fastai Car Type Classification Model Using a Custom Dataset
+How to Deploy Fast.ai Models? (Voilà , Binder and Heroku)
+Computer Vision Archetypal Problems
 
 
 ## Projects
