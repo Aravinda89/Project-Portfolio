@@ -156,8 +156,8 @@ Developed various classifier models to automatically categorize and process imag
     ![8AB61ED7-95F2-4e8b-8640-EF278DC77FDC](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/b0f21f8f-d452-4bf8-8aee-7a820c7b17e9)
     
   - Car color classification
+    <img width="445" alt="Screenshot 2024-05-20 123045" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/b2e51444-577c-4446-8929-f9528b71c88a">
     
-- Utilized CNN, Keras, TensorFlow, OpenCV, and Python for model development and deployment.
 - Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition
 
 ---
