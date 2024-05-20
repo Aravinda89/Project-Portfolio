@@ -141,12 +141,17 @@ Developed various classifier models to automatically categorize and process imag
 - Built classifiers to categorize images into different types such as car images, car components, documents, driver images, and car interiors.
 - Developed specific classifiers for:
   - Car brand type classification
-  - 
   ![05C0E955-C052-44ab-9B9B-6C09A686A5AD](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/4a32f695-5d67-40a5-a064-d62c2ac542e8)
     
-  - Car model type classification
+  - Car model type classification  
+  ![7188CA35-57EC-436a-9666-12624D024348](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/0bc90ddb-d896-47fa-85a7-03cdec6f3cd5)
+
   - Car viewpoint type classification (e.g., front, back, right side, left side)
+  ![ACC9688A-B50B-4861-B297-065772EF4F80](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/84c76e24-1db8-4809-9d1b-3228aa1405ed)
+    
   - Car type classification (e.g., sedan, truck, jeep)
+  - ![1509C426-834B-408d-9B7F-F97C29F26BF7](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/273c03b5-ef4d-45a3-a463-fa7dcb10eeef)
+
   - Document type classification (e.g., ID card, driver's license, vehicle license, VIN, bank card)
   - Car color classification
 - Utilized CNN, Keras, TensorFlow, OpenCV, and Python for model development and deployment.
