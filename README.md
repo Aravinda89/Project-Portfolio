@@ -142,6 +142,7 @@ Developed various classifier models to automatically categorize and process imag
 - Conducted in-house data collection, established labeling standards, and trained data labelers to ensure accurate labeling and quality control.
 - Built classifiers to categorize images into different types such as car images, car components, documents, driver images, and car interiors.
 - Developed specific classifiers for:
+
   - Car brand type classification
     ![05C0E955-C052-44ab-9B9B-6C09A686A5AD](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/4a32f695-5d67-40a5-a064-d62c2ac542e8)
     
