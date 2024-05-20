@@ -92,6 +92,9 @@ Developed a series of computer vision AI models to automatically detect and extr
 <img width="366" alt="Screenshot 2024-05-19 224927" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/8fe992d7-2d9b-4d92-8679-f90d1e4efbb0">
 
 ![3760F7A6-9F85-49f7-A684-7BB6248CF275](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/afc915aa-32a6-4ff8-bddf-8b1daec935ca)
+
+![B3CC0D7D-466E-4bba-B7E7-C2596877FE2C](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/901b2273-7c57-4072-82a1-0a66ffe7b054)
+
 ---
 
 **Car Part Detection**
