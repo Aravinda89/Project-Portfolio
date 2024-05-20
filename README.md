@@ -122,7 +122,8 @@ Developed car part segmentation models to segment visible car parts in images.
 - Utilized OpenCV, Python, TensorFlow, and Keras for model development.
 - Successfully deployed the models to segment visible car parts in images.
 - Technologies Utilized: UNet, Image Segmentation, OpenCV, Python, TensorFlow, Keras
-<img width="394" alt="Screenshot 2024-05-20 123704" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/dbfc88f8-1f0e-441e-a74f-fc81de9f8f1e">
+
+  <img width="394" alt="Screenshot 2024-05-20 123704" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/dbfc88f8-1f0e-441e-a74f-fc81de9f8f1e">
 
 ---
 
@@ -142,23 +143,22 @@ Developed various classifier models to automatically categorize and process imag
 - Built classifiers to categorize images into different types such as car images, car components, documents, driver images, and car interiors.
 - Developed specific classifiers for:
   - Car brand type classification
-  ![05C0E955-C052-44ab-9B9B-6C09A686A5AD](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/4a32f695-5d67-40a5-a064-d62c2ac542e8)
+    ![05C0E955-C052-44ab-9B9B-6C09A686A5AD](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/4a32f695-5d67-40a5-a064-d62c2ac542e8)
     
-  - Car model type classification  
-  ![7188CA35-57EC-436a-9666-12624D024348](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/0bc90ddb-d896-47fa-85a7-03cdec6f3cd5)
+  - Car model type classification
+    ![7188CA35-57EC-436a-9666-12624D024348](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/0bc90ddb-d896-47fa-85a7-03cdec6f3cd5)
 
   - Car viewpoint type classification (e.g., front, back, right side, left side)
-  ![ACC9688A-B50B-4861-B297-065772EF4F80](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/84c76e24-1db8-4809-9d1b-3228aa1405ed)
+    ![ACC9688A-B50B-4861-B297-065772EF4F80](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/84c76e24-1db8-4809-9d1b-3228aa1405ed)
     
   - Car type classification (e.g., sedan, truck, jeep)
-  - ![1509C426-834B-408d-9B7F-F97C29F26BF7](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/273c03b5-ef4d-45a3-a463-fa7dcb10eeef)
+    ![1509C426-834B-408d-9B7F-F97C29F26BF7](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/273c03b5-ef4d-45a3-a463-fa7dcb10eeef)
 
   - Document type classification (e.g., ID card, driver's license, vehicle license, VIN, bank card)
     ![8AB61ED7-95F2-4e8b-8640-EF278DC77FDC](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/b0f21f8f-d452-4bf8-8aee-7a820c7b17e9)
     
   - Car color classification
     <img width="445" alt="Screenshot 2024-05-20 123045" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/b2e51444-577c-4446-8929-f9528b71c88a">
-    
 - Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition
 
 ---
