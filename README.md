@@ -217,8 +217,9 @@ Developed a comprehensive system for medical document classification and OCR.
 
 ---
 
-**Waste Management Using Blockchain**
+
+[**Waste Management Using Blockchain**](https://github.com/Aravinda89/Waste-Management-using-Blockchain)
 
 Developed a project proposal outlining the exploration of blockchain integration in waste management.
-
 - Technologies Utilized: Blockchain
+<img width="1039" alt="236680708-e696540a-1383-4d22-88c4-092cdb5b3a2e" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/1cec228e-cf57-4ba5-aa4a-91d991abad78">
