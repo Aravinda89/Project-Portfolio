@@ -122,6 +122,7 @@ Developed car part segmentation models to segment visible car parts in images.
 - Utilized OpenCV, Python, TensorFlow, and Keras for model development.
 - Successfully deployed the models to segment visible car parts in images.
 - Technologies Utilized: UNet, Image Segmentation, OpenCV, Python, TensorFlow, Keras
+<img width="394" alt="Screenshot 2024-05-20 123704" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/dbfc88f8-1f0e-441e-a74f-fc81de9f8f1e">
 
 ---
 
