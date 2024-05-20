@@ -206,7 +206,7 @@ Developed a comprehensive system for car wheel alignment screen image OCR.
 - Implemented OCR techniques to extract wheel alignment information from various types of wheel alignment screen images obtained from repair shops.
 - Applied for a Chinese patent for the developed system, with the patent result currently pending.
 - Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Classification, Object Detection, OCR
-
+![image](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/94ac78af-820e-404e-a9c8-e7ed7f6a9898)
 ---
 
 **Medical Document Classification and OCR**
