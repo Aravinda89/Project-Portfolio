@@ -49,7 +49,7 @@ Implemented AI models to assist human labelers, enhancing labeling efficiency an
 - Technologies Utilized: Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, OCR, Label Studio
 <img width="489" alt="Screenshot 2024-05-20 171634" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/9d13d14f-551b-4d4e-800e-6e6f0d2873db">
 ---
-
+  
 **Medical Document Patient Information Retrieval using LLM**
 
 Implemented a system to extract patient information from medical documents using LLM.
