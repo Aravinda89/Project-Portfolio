@@ -195,7 +195,7 @@ Developed a system capable of detecting the orientation of documents and rectify
 - Utilized OpenCV for efficient image processing and correction of improperly rotated documents.
 - Successfully integrated the system to accurately detect and rectify document orientations.
 - Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition
-
+  <img width="668" alt="Screenshot 2024-05-20 220100" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/56262f82-c4fb-419d-8075-e2a4296cbbab">
 ---
 
 **Car Wheel Alignment Screen Image OCR**
