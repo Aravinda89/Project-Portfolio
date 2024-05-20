@@ -153,7 +153,10 @@ Developed various classifier models to automatically categorize and process imag
   - ![1509C426-834B-408d-9B7F-F97C29F26BF7](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/273c03b5-ef4d-45a3-a463-fa7dcb10eeef)
 
   - Document type classification (e.g., ID card, driver's license, vehicle license, VIN, bank card)
+    ![8AB61ED7-95F2-4e8b-8640-EF278DC77FDC](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/b0f21f8f-d452-4bf8-8aee-7a820c7b17e9)
+    
   - Car color classification
+    
 - Utilized CNN, Keras, TensorFlow, OpenCV, and Python for model development and deployment.
 - Technologies Utilized: CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition
 
