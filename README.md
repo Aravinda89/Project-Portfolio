@@ -93,7 +93,6 @@ Developed a series of computer vision AI models to automatically detect and extr
 
 ![3760F7A6-9F85-49f7-A684-7BB6248CF275](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/afc915aa-32a6-4ff8-bddf-8b1daec935ca)
 
-![B3CC0D7D-466E-4bba-B7E7-C2596877FE2C](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/901b2273-7c57-4072-82a1-0a66ffe7b054)
 
 ---
 
@@ -107,6 +106,8 @@ Developed a visible car part detection model to identify visible car parts in ca
 - Technologies Utilized: YOLO, Keras, TensorFlow, OpenCV, Python, Object Detection
 
 ![ezgif com-optimize(2)](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/d49527a6-644c-452d-895f-9709e7dcd94b)
+
+![B3CC0D7D-466E-4bba-B7E7-C2596877FE2C](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/901b2273-7c57-4072-82a1-0a66ffe7b054)
 
 ---
 
