@@ -143,8 +143,8 @@ Developed various classifier models to automatically categorize and process imag
 - Built classifiers to categorize images into different types such as car images, car components, documents, driver images, and car interiors.
   ![C2B2906C-F0BD-40f2-8B82-1893D1F53EB4](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/19907074-d839-4761-bfdd-337926d28c61)
 
-- Developed specific classifiers for:
-
+- Developed specific classifiers for
+  
   - Car brand type classification
     ![05C0E955-C052-44ab-9B9B-6C09A686A5AD](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/4a32f695-5d67-40a5-a064-d62c2ac542e8)
     
