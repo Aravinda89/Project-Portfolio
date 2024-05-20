@@ -35,8 +35,8 @@ Developed a personalized chatbot with persona using the ChatGPT API.
 - Developed the solution using Python programming language.
 - Technologies Utilized: ChatGPT, Prompt Engineering, Python
 
-  [Joker Chatbot](https://github.com/Aravinda89/joker_chatbot) - An AI-powered conversational agent inspired by the character Joker from The Dark Knight.
-  [Morpheus Chatbot](https://github.com/Aravinda89/Morpheus_chatbot) - An AI-powered conversational agent inspired by the character Morpheus from The Matrix.
+- [Joker Chatbot](https://github.com/Aravinda89/joker_chatbot) - An AI-powered conversational agent inspired by the character Joker from The Dark Knight.
+- [Morpheus Chatbot](https://github.com/Aravinda89/Morpheus_chatbot) - An AI-powered conversational agent inspired by the character Morpheus from The Matrix.
 ---
 
 **AI-Assisted Data Labeling**
