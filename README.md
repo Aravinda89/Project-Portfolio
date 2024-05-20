@@ -177,6 +177,8 @@ Developed a system to separate and group jumbled images belonging to multiple ca
 - Successfully separated and grouped images of each car using the developed system.
 - Technologies Utilized: YOLO, CNN, KNN, Clustering, Image Recognition, Object Detection
 
+<img width="942" alt="Screenshot 2024-05-20 170242" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/eff7ad67-3e23-4a77-a76d-38196092cfbf">
+
 ---
 
 **Document Classification and OCR**
