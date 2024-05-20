@@ -35,6 +35,8 @@ Developed a personalized chatbot with persona using the ChatGPT API.
 - Developed the solution using Python programming language.
 - Technologies Utilized: ChatGPT, Prompt Engineering, Python
 
+  [Joker Chatbot](https://github.com/Aravinda89/joker_chatbot) - An AI-powered conversational agent inspired by the character Joker from The Dark Knight.
+  [Morpheus Chatbot](https://github.com/Aravinda89/Morpheus_chatbot) - An AI-powered conversational agent inspired by the character Morpheus from The Matrix.
 ---
 
 **AI-Assisted Data Labeling**
@@ -125,16 +127,8 @@ Developed car part segmentation models to segment visible car parts in images.
 - Technologies Utilized: UNet, Image Segmentation, OpenCV, Python, TensorFlow, Keras
 
   <img width="394" alt="Screenshot 2024-05-20 123704" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/dbfc88f8-1f0e-441e-a74f-fc81de9f8f1e">
-
----
-
-**Waste Management Using Blockchain**
-
-Developed a project proposal outlining the exploration of blockchain integration in waste management.
-
-- Technologies Utilized: Blockchain
-
----
+  
+  ---
 
 **Image Categorizers**
 
@@ -220,3 +214,11 @@ Developed a comprehensive system for car wheel alignment screen image OCR.
 Developed a comprehensive system for medical document classification and OCR.
 
 - Implemented a medical image type classifier to distinguish between different types of medical documents such as patient medical records and diagnosis proofs. Utilized keyword search for further classification.
+
+---
+
+**Waste Management Using Blockchain**
+
+Developed a project proposal outlining the exploration of blockchain integration in waste management.
+
+- Technologies Utilized: Blockchain
