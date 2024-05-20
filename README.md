@@ -74,7 +74,7 @@ Designed and implemented a Chinese number plate detection and recognition system
 - Developed a demonstration to showcase the system's functionality.
 - Successfully deployed the number plate detection and recognition pipeline to extract number plate information from images.
 - Technologies Utilized: CNN, YOLO, OCR, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection
-
+  ![image](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/195dd491-0e34-4856-aad4-71c11a343a92)
 ---
 
 **Damage Car Part Detection/Recognition**
