@@ -106,6 +106,8 @@ Developed a visible car part detection model to identify visible car parts in ca
 - Successfully deployed the model to detect visible car part information from images in operational settings.
 - Technologies Utilized: YOLO, Keras, TensorFlow, OpenCV, Python, Object Detection
 
+![ezgif com-optimize(2)](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/d49527a6-644c-452d-895f-9709e7dcd94b)
+
 ---
 
 **Car Part Segmentation**
