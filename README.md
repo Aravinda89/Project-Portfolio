@@ -200,7 +200,7 @@ Developed a system capable of detecting the orientation of documents and rectify
 
 **Car Wheel Alignment Screen Image OCR**
 
-Developed a comprehensive system for car wheel alignment screen image OCR.
+Car wheel alignment machines are essential tools in auto repair shops, providing precise measurements of a vehicle's wheel alignment. The screen display of these machines typically shows various key parameters that technicians use to adjust the alignment of the wheels. The goal of this project is to extract parameters from wheel alignment machine screen images. We have developed a comprehensive system for OCR (Optical Character Recognition) of car wheel alignment screen images.
 
 - Conducted wheel alignment screen type classification to categorize different types of screens accurately.
 - Implemented OCR techniques to extract wheel alignment information from various types of wheel alignment screen images obtained from repair shops.
