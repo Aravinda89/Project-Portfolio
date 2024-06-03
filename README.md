@@ -3,6 +3,7 @@
 This portfolio consists of a compilation of projects that I created for various purposes, demonstrating my skills and experiences in different areas.
 
 ## Blog Posts
+* [How to Continuously Improve AI Models with Changing Data](https://aravinda-gn.medium.com/how-to-continuously-improve-ai-models-with-changing-data-a26de2c33fcb)
 * [The Blueprint for Building Successful AI Products](https://aravinda-gn.medium.com/the-blueprint-for-building-successful-ai-products-63dc45c38bb5)
 * [How to split image dataset into train, validation and test set?](https://aravinda-gn.medium.com/how-to-split-image-dataset-into-train-validation-and-test-set-5a41c48af332)
 * [How to use Kaggle datasets in Google Colab?](https://medium.com/unpackai/how-to-use-kaggle-datasets-in-google-colab-f9b2e4b5767c)
