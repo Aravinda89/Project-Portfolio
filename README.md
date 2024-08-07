@@ -3,6 +3,9 @@
 This portfolio consists of a compilation of projects that I created for various purposes, demonstrating my skills and experiences in different areas.
 
 ## Blog Posts
+* [How to Develop an AI Career as a Beginner](https://aravinda-gn.medium.com/how-to-develop-an-ai-career-as-a-beginner-d4562f9a487a)
+* [How to Detect and Remove Corrupted Image Files in an Image Dataset Using Python ?](https://aravinda-gn.medium.com/how-to-detect-and-remove-corrupted-image-files-in-an-image-dataset-using-python-3749d8ea5ba8)
+* [Learning How to Learn: Techniques to Master Any Difficult Subject Effectively](https://aravinda-gn.medium.com/learning-how-to-learn-techniques-to-master-any-difficult-subject-effectively-6ed0228aceb0)
 * [How to Continuously Improve AI Models with Changing Data](https://aravinda-gn.medium.com/how-to-continuously-improve-ai-models-with-changing-data-a26de2c33fcb)
 * [The Blueprint for Building Successful AI Products](https://aravinda-gn.medium.com/the-blueprint-for-building-successful-ai-products-63dc45c38bb5)
 * [How to split image dataset into train, validation and test set?](https://aravinda-gn.medium.com/how-to-split-image-dataset-into-train-validation-and-test-set-5a41c48af332)
