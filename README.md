@@ -3,6 +3,7 @@
 This portfolio consists of a compilation of projects that I created for various purposes, demonstrating my skills and experiences in different areas.
 
 ## Blog Posts
+* [The Impact of AI on the Practice of Law: Opportunities, Challenges, and Legal Implications](https://medium.com/@aravinda-gn/the-impact-of-ai-on-the-practice-of-law-opportunities-challenges-and-legal-implications-7703e7bdca5a)
 * [How to Develop an AI Career as a Beginner](https://aravinda-gn.medium.com/how-to-develop-an-ai-career-as-a-beginner-d4562f9a487a)
 * [Learning How to Learn: Techniques to Master Any Difficult Subject Effectively](https://aravinda-gn.medium.com/learning-how-to-learn-techniques-to-master-any-difficult-subject-effectively-6ed0228aceb0)
 * [How to Continuously Improve AI Models with Changing Data](https://aravinda-gn.medium.com/how-to-continuously-improve-ai-models-with-changing-data-a26de2c33fcb)
