@@ -21,6 +21,22 @@ This portfolio consists of a compilation of projects that I created for various 
 
 ## Projects
 
+**Tea Recommendation Chatbot**
+*Problem*
+
+Finding the perfect tea is hard. The market is flooded with countless tea options, and consumers often struggle to find teas that suit their:
+Taste preferences
+Health goals
+Emotional needs
+
+This lack of personalized guidance leads to a frustrating trial-and-error process.
+
+*Solution*
+This chatbot helps you find the perfect tea. It can recommend the best-suited, personalized tea for you from over 100 different types, based on your preferences and needs.
+
+- [Tea Recommendation Chatbot](https://poe.com/ChaBot2024) 
+
+
 **Fine-Tuning Stable Diffusion for Personalized Image Generation**
 
 Engineered prompts and utilized stable diffusion techniques to fine-tune the model for generating personalized images.
