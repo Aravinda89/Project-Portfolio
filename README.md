@@ -22,6 +22,7 @@ This portfolio consists of a compilation of projects that I created for various 
 ## Projects
 
 **Tea Recommendation Chatbot**
+
 *Problem*
 
 Finding the perfect tea is hard. The market is flooded with countless tea options, and consumers often struggle to find teas that suit their:
