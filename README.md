@@ -34,8 +34,9 @@ This lack of personalized guidance leads to a frustrating trial-and-error proces
 *Solution*
 This chatbot helps you find the perfect tea. It can recommend the best-suited, personalized tea for you from over 100 different types, based on your preferences and needs.
 
-- [Tea Recommendation Chatbot](https://poe.com/ChaBot2024) 
+- [Tea Recommendation Chatbot](https://poe.com/ChaBot2024)
 
+---
 
 **Fine-Tuning Stable Diffusion for Personalized Image Generation**
 
