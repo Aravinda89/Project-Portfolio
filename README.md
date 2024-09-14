@@ -28,7 +28,8 @@ This chatbot simplifies tea selection by recommending the perfect tea for you fr
 
 - [Tea Recommendation Chatbot](https://poe.com/ChaBot2024)
 - Technologies Utilized: RAG, LLM, Lama-3.1-70B
-  
+
+  ![image](https://github.com/user-attachments/assets/913ae5ea-de04-445d-82aa-5af228d07ca4)
 ---
 
 **Fine-Tuning Stable Diffusion for Personalized Image Generation**
