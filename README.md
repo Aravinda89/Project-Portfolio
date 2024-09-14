@@ -27,7 +27,8 @@ Finding the perfect tea can be overwhelming with so many options available. Cons
 This chatbot simplifies tea selection by recommending the perfect tea for you from over 100 types. It provides personalized suggestions based on your individual preferences, helping you find the ideal tea with ease.
 
 - [Tea Recommendation Chatbot](https://poe.com/ChaBot2024)
-
+- Technologies Utilized: RAG, LLM, Lama-3.1-70B
+  
 ---
 
 **Fine-Tuning Stable Diffusion for Personalized Image Generation**
