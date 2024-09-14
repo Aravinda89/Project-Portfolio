@@ -23,17 +23,8 @@ This portfolio consists of a compilation of projects that I created for various 
 
 **Tea Recommendation Chatbot**
 
-*Problem*
-
-Finding the perfect tea is hard. The market is flooded with countless tea options, and consumers often struggle to find teas that suit their:
-Taste preferences
-Health goals
-Emotional needs
-
-This lack of personalized guidance leads to a frustrating trial-and-error process.
-
-*Solution*
-This chatbot helps you find the perfect tea. It can recommend the best-suited, personalized tea for you from over 100 different types, based on your preferences and needs.
+Finding the perfect tea can be overwhelming with so many options available. Consumers often struggle to find teas that match their taste preferences, health goals, and emotional needs, making the process frustrating and time-consuming.
+This chatbot simplifies tea selection by recommending the perfect tea for you from over 100 types. It provides personalized suggestions based on your individual preferences, helping you find the ideal tea with ease.
 
 - [Tea Recommendation Chatbot](https://poe.com/ChaBot2024)
 
