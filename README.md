@@ -31,7 +31,7 @@ This chatbot simplifies tea selection by recommending the perfect tea for you fr
 - Technologies Utilized: RAG, LLM, Lama-3.1-70B
 
   ![image](https://github.com/user-attachments/assets/913ae5ea-de04-445d-82aa-5af228d07ca4)
-  ![14 11 2024_20 13 41_REC-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a2e1fab7-11b3-49eb-83f3-9036981c2acc)
+  ![14 11 2024_20 13 41_REC-ezgif com-video-to-gif-converter(1)](https://github.com/user-attachments/assets/9e95f954-321a-488c-962f-05987671a263)
 ---
 
 **Fine-Tuning Stable Diffusion for Personalized Image Generation**
