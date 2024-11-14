@@ -26,11 +26,9 @@ This portfolio consists of a compilation of projects that I created for various 
 Finding the perfect tea can be overwhelming with so many options available. Consumers often struggle to find teas that match their taste preferences, health goals, and emotional needs, making the process frustrating and time-consuming.
 This chatbot simplifies tea selection by recommending the perfect tea for you from over 100 types. It provides personalized suggestions based on your individual preferences, helping you find the ideal tea with ease.
 
-- [Tea Recommendation Chatbot](https://poe.com/ChaBot2024)
 - [Tea Recommendation Chatbot](https://poe.com/TeaRecommend) 
-- Technologies Utilized: RAG, LLM, Lama-3.1-70B
+- Technologies Utilized: RAG, LLM, Lama-3.1-70B, GPT-4 
 
-  ![image](https://github.com/user-attachments/assets/913ae5ea-de04-445d-82aa-5af228d07ca4)
   ![14 11 2024_20 13 41_REC-ezgif com-video-to-gif-converter(1)](https://github.com/user-attachments/assets/9e95f954-321a-488c-962f-05987671a263)
 ---
 
