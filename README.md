@@ -53,6 +53,7 @@ This project aims to translate a Sinhala language PDF e-book into English using 
 - **Translate with LLM**: Use GPT-4 or similar LLM for translating the extracted Sinhala text into English.
 - **Workflow**: PDF → Images → OCR → LLM (Translation).
 - **Tools**: OCR (Tesseract), LLM (GPT-4), Python, Prompt Engineering.
+  
 ![image](https://github.com/user-attachments/assets/f477bca7-d510-4422-af45-ac19c6a33e6b)
 ---
 
