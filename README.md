@@ -33,10 +33,7 @@ This chatbot simplifies tea selection by recommending the perfect tea for you fr
 ---
 
 **Targeted Social Media Marketing Campaign**
-
-Finding the perfect tea can be overwhelming with so many options available. Consumers often struggle to find teas that match their taste preferences, health goals, and emotional needs, making the process frustrating and time-consuming.
-This chatbot simplifies tea selection by recommending the perfect tea for you from over 100 types. It provides personalized suggestions based on your individual preferences, helping you find the ideal tea with ease.
-
+Use data and messaging tools to reach a specific audience.
 * Start with a dataset containing contact details (e.g., phone numbers, emails, addresses, age).
 * Identify a target audience based on geographic location and demographics.
 * Clean and analyze the data to focus on the relevant audience.
