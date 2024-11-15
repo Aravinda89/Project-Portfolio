@@ -42,7 +42,7 @@ This chatbot simplifies tea selection by recommending the perfect tea for you fr
 * Clean and analyze the data to focus on the relevant audience.
 * Extract contact details (phone numbers, emails) for the selected group.
 * Use a bulk SMS API to send personalized messages and emails to the targeted audience.
-Tools: Python, Data Cleaning & Analysis, SMS API.
+* Tools: Python, Data Cleaning & Analysis, SMS API.
 
 ---
 
