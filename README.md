@@ -42,6 +42,17 @@ Use data and messaging tools to reach a specific audience.
 * Extract contact details (phone numbers, emails) for the selected group.
 * Use a bulk SMS API to send personalized messages and emails to the targeted audience.
 * Tools: Python, Pandas, Data Cleaning & Analysis, SMS API.
+---
+
+**Translating PDF e-book to English using OCR and LLMs**
+
+This project aims to translate a Sinhala language PDF e-book into English using Optical Character Recognition (OCR) and Large Language Models (LLMs).
+
+- **Convert PDF to Images**: Convert each page of the Sinhala PDF e-book into an image.
+- **Extract Text with OCR**: Use an OCR model (e.g., Tesseract) to extract text from each image.
+- **Translate with LLM**: Use GPT-4 or similar LLM for translating the extracted Sinhala text into English.
+- **Workflow**: PDF → Images → OCR → LLM (Translation).
+- **Tools**: OCR (Tesseract), LLM (GPT-4), Python, Prompt Engineering.
 
 ---
 
