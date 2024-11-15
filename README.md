@@ -33,7 +33,9 @@ This chatbot simplifies tea selection by recommending the perfect tea for you fr
 ---
 
 **Targeted Social Media Marketing Campaign**
+
 Use data and messaging tools to reach a specific audience.
+
 * Start with a dataset containing contact details (e.g., phone numbers, emails, addresses, age).
 * Identify a target audience based on geographic location and demographics.
 * Clean and analyze the data to focus on the relevant audience.
