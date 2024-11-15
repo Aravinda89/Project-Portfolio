@@ -32,6 +32,20 @@ This chatbot simplifies tea selection by recommending the perfect tea for you fr
   ![14 11 2024_20 13 41_REC-ezgif com-video-to-gif-converter(1)](https://github.com/user-attachments/assets/9e95f954-321a-488c-962f-05987671a263)
 ---
 
+**Targeted Social Media Marketing Campaign**
+
+Finding the perfect tea can be overwhelming with so many options available. Consumers often struggle to find teas that match their taste preferences, health goals, and emotional needs, making the process frustrating and time-consuming.
+This chatbot simplifies tea selection by recommending the perfect tea for you from over 100 types. It provides personalized suggestions based on your individual preferences, helping you find the ideal tea with ease.
+
+* Start with a dataset containing contact details (e.g., phone numbers, emails, addresses, age).
+* Identify a target audience based on geographic location and demographics.
+* Clean and analyze the data to focus on the relevant audience.
+* Extract contact details (phone numbers, emails) for the selected group.
+* Use a bulk SMS API to send personalized messages and emails to the targeted audience.
+
+Tools: Python, Data Cleaning & Analysis, SMS API.
+---
+
 **Fine-Tuning Stable Diffusion for Personalized Image Generation**
 
 Engineered prompts and utilized stable diffusion techniques to fine-tune the model for generating personalized images.
