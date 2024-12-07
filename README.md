@@ -21,6 +21,14 @@ This portfolio consists of a compilation of projects that I created for various 
 
 ## Projects
 
+**🎵 Music Creation Using AI Tools**
+
+- Created songs from lyrics and composed instrumental tracks tailored to various needs.
+- Produced music in diverse genres, styles, moods, and for different occasions.
+- Utilized cutting-edge AI technologies including Suno for melody creation, Udio for mastering, and ChatGPT for advanced prompt engineering.
+
+---
+
 **Tea Recommendation Chatbot**
 
 Finding the perfect tea can be overwhelming with so many options available. Consumers often struggle to find teas that match their taste preferences, health goals, and emotional needs, making the process frustrating and time-consuming.
