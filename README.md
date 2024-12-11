@@ -27,11 +27,7 @@ This portfolio consists of a compilation of projects that I created for various 
 - Produced music in diverse genres, styles, moods, and for different occasions, supporting multiple languages.
 - Utilized cutting-edge AI technologies including Suno for melody creation, Udio for mastering, and ChatGPT for advanced prompt engineering.
 
-  <audio controls>
-  <source src="https://www.dropbox.com/scl/fi/wstb5cg4gnzwst9zeyu4b/1.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-  </audio>
-
+[inna](https://on.soundcloud.com/p4cG11iJtehwM9rX8)
 
 ---
 
