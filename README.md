@@ -27,8 +27,9 @@ This portfolio consists of a compilation of projects that I created for various 
 - Produced music in diverse genres, styles, moods, and for different occasions, supporting multiple languages.
 - Utilized cutting-edge AI technologies including Suno for melody creation, Udio for mastering, and ChatGPT for advanced prompt engineering.
 
-[inna](https://on.soundcloud.com/p4cG11iJtehwM9rX8)
-
+[Инна Инна - Russian Song](https://on.soundcloud.com/p4cG11iJtehwM9rX8)
+[عنوان دور از تهران
+- Farsi Song](https://on.soundcloud.com/B3CbqMHTYGE31Bt99)
 ---
 
 **Tea Recommendation Chatbot**
