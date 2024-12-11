@@ -26,7 +26,10 @@ This portfolio consists of a compilation of projects that I created for various 
 - Created songs from lyrics and composed instrumental tracks tailored to various needs.
 - Produced music in diverse genres, styles, moods, and for different occasions, supporting multiple languages.
 - Utilized cutting-edge AI technologies including Suno for melody creation, Udio for mastering, and ChatGPT for advanced prompt engineering.
-  [Inna](https://www.dropbox.com/scl/fi/wstb5cg4gnzwst9zeyu4b/1.mp3?rlkey=r8eeyv7915lcwq053ng5h6p1y&st=mdlrsvdz&dl=0)
+  <audio controls>
+  <source src="https://drive.google.com/file/d/1lGEdcXmYPvkZqeh5DLK2lQXwV_qBC2lB/view?usp=sharing" type="audio/mpeg">
+  Your browser does not support the audio element.
+  </audio>
 
 ---
 
