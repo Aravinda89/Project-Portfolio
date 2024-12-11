@@ -31,6 +31,7 @@ This portfolio consists of a compilation of projects that I created for various 
 
 [Farsi Song](https://on.soundcloud.com/B3CbqMHTYGE31Bt99)
 
+[වෙන්ව යමු - Sinhala Song](https://on.soundcloud.com/CkJzE77e28Aymy987)
 
 ---
 
