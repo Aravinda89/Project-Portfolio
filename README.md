@@ -28,7 +28,7 @@ This portfolio consists of a compilation of projects that I created for various 
 - Utilized cutting-edge AI technologies including Suno for melody creation, Udio for mastering, and ChatGPT for advanced prompt engineering.
 
   <audio controls>
-  <source src="https://www.dropbox.com/scl/fi/wstb5cg4gnzwst9zeyu4b/1.mp3?rlkey=r8eeyv7915lcwq053ng5h6p1y&st=z0yun0kx&dl=0" type="audio/mpeg">
+  <source src="https://www.dropbox.com/scl/fi/wstb5cg4gnzwst9zeyu4b/1.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
   </audio>
 
