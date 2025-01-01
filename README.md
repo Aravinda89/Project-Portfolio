@@ -1,6 +1,6 @@
 # Project Portfolio
 
-This portfolio consists of a compilation of projects that I created for various purposes, demonstrating my skills and experiences in different areas.
+This portfolio consists of a compilation of projects that I created for various purposes, demonstrating my skills and experiences in different areas..
 
 ## Blog Posts
 * [The Impact of AI on the Practice of Law: Opportunities, Challenges, and Legal Implications](https://medium.com/@aravinda-gn/the-impact-of-ai-on-the-practice-of-law-opportunities-challenges-and-legal-implications-7703e7bdca5a)
