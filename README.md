@@ -21,6 +21,21 @@ This portfolio consists of a compilation of projects that I created for various 
 
 ## Projects
 
+### 🌿 **Organelle Genome Assembly Project**
+
+- Worked with researchers to set up and run the [**Organelle Genome Assembly Toolkit**](https://github.com/Kinggerm/GetOrganelle) to assemble organelle genomes from real plant genomic data.
+- The project aimed to help extract and analyze mitochondrial and chloroplast DNA, essential for understanding plant evolution, genetic diversity, and improving crop varieties.
+- Docker, Conda, GetOrganelle Toolkit, SPAdes, Ubuntu 20.04, Bioinformatics
+
+### 🔍 **What I Did:**
+- Set up a **Conda** environment with all necessary dependencies inside a **Docker** container.
+- Fixed installation and runtime issues for smooth execution.
+- Prepared the genomic dataset for analysis.
+- Successfully ran the genome assembly algorithm.
+- Generated and validated the final organelle genome sequences.
+
+--- 
+
 **🎵 Music Creation Using AI Tools**
 
 - Created songs from lyrics and composed instrumental tracks tailored to various needs.
