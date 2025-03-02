@@ -48,6 +48,8 @@ This portfolio consists of a compilation of projects that I created for various 
 
 [වෙන්ව යමු - Sinhala Song](https://on.soundcloud.com/CkJzE77e28Aymy987)
 
+[北京北京 - Chinese Song](https://on.soundcloud.com/EsdFBz4Ktmw6WNXj8)
+
 ---
 
 **Tea Recommendation Chatbot**
