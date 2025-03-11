@@ -26,12 +26,11 @@ This portfolio consists of a compilation of projects that I created for various 
 
 | Project Name | Technologies Used |
 |-------------|------------------|
-| [🌿 Organelle Genome Assembly Project] | Docker, Conda, GetOrganelle, SPAdes, Ubuntu 20.04, Bioinformatics |
-| [🎵 Music Creation Using AI Tools] | Suno, Udio, ChatGPT, Generative AI, Music Production |
+| [🌿 Organelle Genome Assembly Project](#-organelle-genome-assembly-project) | Docker, Conda, GetOrganelle, SPAdes, Ubuntu 20.04, Bioinformatics |
+| [🎵 Music Creation Using AI Tools](#-music-creation-using-ai-tools) | Suno, Udio, ChatGPT, Generative AI, Music Production |
 
 
-### 🌿 **Organelle Genome Assembly Project**
-
+### 🌿 Organelle Genome Assembly Project
 - Worked with researchers to set up and run the [**Organelle Genome Assembly Toolkit**](https://github.com/Kinggerm/GetOrganelle) to assemble organelle genomes from real plant genomic data.
 - The project aimed to help extract and analyze mitochondrial and chloroplast DNA, essential for understanding plant evolution, genetic diversity, and improving crop varieties.
 - Docker, Conda, GetOrganelle Toolkit, SPAdes, Ubuntu 20.04, Bioinformatics
@@ -45,7 +44,7 @@ This portfolio consists of a compilation of projects that I created for various 
 
 --- 
 
-**🎵 Music Creation Using AI Tools**
+### 🎵 Music Creation Using AI Tools
 
 - Created songs from lyrics and composed instrumental tracks tailored to various needs.
 - Produced music in diverse genres, styles, moods, and for different occasions, supporting multiple languages.
