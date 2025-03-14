@@ -29,6 +29,7 @@ This portfolio consists of a compilation of projects that I created for various 
 | 🎵 Music Creation Using AI Tools | Used AI tools to generate music from lyrics, supporting various genres and styles. | Suno, Udio, ChatGPT, Generative AI, Music Production |  
 
 
+
 ### 🌿 Organelle Genome Assembly Project
 - Worked with researchers to set up and run the [**Organelle Genome Assembly Toolkit**](https://github.com/Kinggerm/GetOrganelle) to assemble organelle genomes from real plant genomic data.
 - The project aimed to help extract and analyze mitochondrial and chloroplast DNA, essential for understanding plant evolution, genetic diversity, and improving crop varieties.
