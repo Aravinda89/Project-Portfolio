@@ -35,7 +35,6 @@ This portfolio consists of a compilation of projects that I created for various 
 - The project aimed to help extract and analyze mitochondrial and chloroplast DNA, essential for understanding plant evolution, genetic diversity, and improving crop varieties.
 - Docker, Conda, GetOrganelle Toolkit, SPAdes, Ubuntu 20.04, Bioinformatics
 
-### 🔍 **What I Did:**
 - Set up a **Conda** environment with all necessary dependencies inside a **Docker** container.
 - Fixed installation and runtime issues for smooth execution.
 - Prepared the genomic dataset for analysis.
