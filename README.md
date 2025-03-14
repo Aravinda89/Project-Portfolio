@@ -75,7 +75,7 @@ This portfolio consists of a compilation of projects that I created for various 
 
 ---
 
-### Tea Recommendation Chatbot
+### 🍵 Tea Recommendation Chatbot
 
 Finding the perfect tea can be overwhelming with so many options available. Consumers often struggle to find teas that match their taste preferences, health goals, and emotional needs, making the process frustrating and time-consuming.
 This chatbot simplifies tea selection by recommending the perfect tea for you from over 100 types. It provides personalized suggestions based on your individual preferences, helping you find the ideal tea with ease.
