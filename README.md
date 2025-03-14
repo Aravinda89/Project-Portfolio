@@ -86,7 +86,7 @@ This chatbot simplifies tea selection by recommending the perfect tea for you fr
   ![14 11 2024_20 13 41_REC-ezgif com-video-to-gif-converter(1)](https://github.com/user-attachments/assets/9e95f954-321a-488c-962f-05987671a263)
 ---
 
-**Targeted Social Media Marketing Campaign**
+## 📱 Targeted Social Media Marketing Campaign
 
 Use data and messaging tools to reach a specific audience.
 
@@ -98,7 +98,7 @@ Use data and messaging tools to reach a specific audience.
 * Tools: Python, Pandas, Data Cleaning & Analysis, SMS API.
 ---
 
-**Translating PDF e-book to English using OCR and LLMs**
+## 📚 Translating PDF e-book to English using OCR and LLMs
 
 This project aims to translate a Sinhala language PDF e-book into English using Optical Character Recognition (OCR) and Large Language Models (LLMs).
 
@@ -111,7 +111,7 @@ This project aims to translate a Sinhala language PDF e-book into English using 
 ![image](https://github.com/user-attachments/assets/f477bca7-d510-4422-af45-ac19c6a33e6b)
 ---
 
-**Fine-Tuning Stable Diffusion for Personalized Image Generation**
+## 🖼️ Fine-Tuning Stable Diffusion for Personalized Image Generation
 
 Engineered prompts and utilized stable diffusion techniques to fine-tune the model for generating personalized images.
 
@@ -122,7 +122,7 @@ Engineered prompts and utilized stable diffusion techniques to fine-tune the mod
 
 ---
 
-**Chatbot Development with ChatGPT API**
+## 🤖 Chatbot Development with ChatGPT API
 
 Developed a personalized chatbot with persona using the ChatGPT API.
 
@@ -135,7 +135,7 @@ Developed a personalized chatbot with persona using the ChatGPT API.
 - [Morpheus Chatbot](https://github.com/Aravinda89/Morpheus_chatbot) - An AI-powered conversational agent inspired by the character Morpheus from The Matrix.
 ---
 
-**AI-Assisted Data Labeling**
+## 📝 AI-Assisted Data Labeling
 
 Implemented AI models to assist human labelers, enhancing labeling efficiency and accuracy.
 
@@ -149,7 +149,7 @@ Implemented AI models to assist human labelers, enhancing labeling efficiency an
 
 ---
   
-**Medical Document Patient Information Retrieval using LLM**
+## 🩺 Medical Document Patient Information Retrieval using LLM
 
 Implemented a system to extract patient information from medical documents using LLM.
 
@@ -159,7 +159,7 @@ Implemented a system to extract patient information from medical documents using
 
 ---
 
-**Number Plate Detection and Recognition**
+## 🚗 Number Plate Detection and Recognition
 
 Designed and implemented a Chinese number plate detection and recognition system to extract number plate information from car images.
 
@@ -173,7 +173,7 @@ Designed and implemented a Chinese number plate detection and recognition system
   ![image](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/1c054965-788b-4e0b-9d62-6d737aa79a13)
 ---
 
-**Damage Car Part Detection/Recognition**
+## 🚙 Damage Car Part Detection/Recognitio
 
 Developed a series of computer vision AI models to automatically detect and extract information about damaged car parts from car accident images.
 
@@ -195,7 +195,7 @@ Developed a series of computer vision AI models to automatically detect and extr
 
 ---
 
-**Car Part Detection**
+## 🚗 Car Part Detection
 
 Developed a visible car part detection model to identify visible car parts in car images.
 
@@ -212,7 +212,7 @@ Developed a visible car part detection model to identify visible car parts in ca
 
 ---
 
-**Car Part Segmentation**
+## 🚙 Car Part Segmentation
 
 Developed car part segmentation models to segment visible car parts in images.
 
@@ -226,7 +226,7 @@ Developed car part segmentation models to segment visible car parts in images.
   
   ---
 
-**Image Categorizers**
+## 🖼️ Image Categorizers
 
 Developed various classifier models to automatically categorize and process images.
 
@@ -257,7 +257,7 @@ Developed various classifier models to automatically categorize and process imag
 
 ---
 
-**Image Grouping by Car**
+## 🚘 Image Grouping by Car
 
 Developed a system to separate and group jumbled images belonging to multiple cars into distinct sets for each car.
 
@@ -272,7 +272,7 @@ Developed a system to separate and group jumbled images belonging to multiple ca
 
 ---
 
-**Document Classification and OCR**
+## 📑 Document Classification and OCR
 
 Developed a system for document classification and OCR.
 
@@ -283,7 +283,7 @@ Developed a system for document classification and OCR.
 
 ---
 
-**Document Orientation Detection and Correction**
+## 🔄 Document Orientation Detection and Correction
 
 Developed a system capable of detecting the orientation of documents and rectifying any incorrectly rotated ones. The model can detect four orientation angles: 0°, 90°, 180°, and 270°.
 
@@ -294,7 +294,7 @@ Developed a system capable of detecting the orientation of documents and rectify
   <img width="668" alt="Screenshot 2024-05-20 220100" src="https://github.com/Aravinda89/Project-Portfolio/assets/31471559/56262f82-c4fb-419d-8075-e2a4296cbbab">
 ---
 
-**Car Wheel Alignment Screen Image OCR**
+## 🚗 Car Wheel Alignment Screen Image OCR
 
 Car wheel alignment machines are essential tools in auto repair shops, providing precise measurements of a vehicle's wheel alignment. The screen display of these machines typically shows various key parameters that technicians use to adjust the alignment of the wheels. The goal of this project is to extract parameters from wheel alignment machine screen images. We have developed a comprehensive system for OCR (Optical Character Recognition) of car wheel alignment screen images.
 
@@ -305,7 +305,7 @@ Car wheel alignment machines are essential tools in auto repair shops, providing
 ![image](https://github.com/Aravinda89/Project-Portfolio/assets/31471559/94ac78af-820e-404e-a9c8-e7ed7f6a9898)
 ---
 
-**Medical Document Classification and OCR**
+## 🩺 Medical Document Classification and OCR
 
 Developed a comprehensive system for medical document classification and OCR.
 
@@ -314,7 +314,7 @@ Developed a comprehensive system for medical document classification and OCR.
 ---
 
 
-[**Waste Management Using Blockchain**](https://github.com/Aravinda89/Waste-Management-using-Blockchain)
+[## ♻️ Waste Management Using Blockchain](https://github.com/Aravinda89/Waste-Management-using-Blockchain)
 
 Developed a project proposal outlining the exploration of blockchain integration in waste management.
 - Technologies Utilized: Blockchain
