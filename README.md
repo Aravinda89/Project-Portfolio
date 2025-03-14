@@ -19,9 +19,7 @@ This portfolio consists of a compilation of projects that I created for various 
 * [Computer Vision Archetypal Problems](https://medium.com/unpackai/computer-vision-archetypal-problems-c56b6cf4a507)
 
 ---
-
-## Projects
-## 🚀 AI Projects Summary  
+## 🚀 Projects Summary  
 
 | Project Name | Description | Technologies Used |  
 |--------------|-------------|------------------|  
@@ -46,6 +44,7 @@ This portfolio consists of a compilation of projects that I created for various 
 | [🩺 Medical Document Classification and OCR](#-medical-document-classification-and-ocr) | Classifies medical documents and extracts information using OCR and keyword search. | CNN, Keras, TensorFlow, OpenCV, Python, OCR |  
 | [♻️ Waste Management Using Blockchain](#-waste-management-using-blockchain) | Proposal for integrating blockchain in waste management. | Blockchain |
 
+--- 
 
 ### 🌿 Organelle Genome Assembly Project
 - Worked with researchers to set up and run the [**Organelle Genome Assembly Toolkit**](https://github.com/Kinggerm/GetOrganelle) to assemble organelle genomes from real plant genomic data.
