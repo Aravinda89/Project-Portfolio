@@ -47,14 +47,6 @@ This portfolio consists of a compilation of projects that I created for various 
 | [♻️ Waste Management Using Blockchain](#-waste-management-using-blockchain) | Proposal for integrating blockchain in waste management. | Blockchain |
 
 
-
-| Project Name | Description | Technologies Used |  
-|-------------|-------------|------------------|  
-| [🌿 Organelle Genome Assembly Project](#-organelle-genome-assembly-project)  | Assembled organelle genomes from plant genomic data to analyze mitochondrial and chloroplast DNA for plant research. | Docker, Conda, GetOrganelle, SPAdes, Ubuntu 20.04, Bioinformatics |  
-| [🎵 Music Creation Using AI Tools](#-music-creation-using-ai-tools) | Used AI tools to generate music from lyrics, supporting various genres and styles. | Suno, Udio, ChatGPT, Generative AI, Music Production |  
-
-
-
 ### 🌿 Organelle Genome Assembly Project
 - Worked with researchers to set up and run the [**Organelle Genome Assembly Toolkit**](https://github.com/Kinggerm/GetOrganelle) to assemble organelle genomes from real plant genomic data.
 - The project aimed to help extract and analyze mitochondrial and chloroplast DNA, essential for understanding plant evolution, genetic diversity, and improving crop varieties.
