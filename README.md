@@ -24,6 +24,31 @@ This portfolio consists of a compilation of projects that I created for various 
 ## 🚀 AI Projects Summary  
 
 | Project Name | Description | Technologies Used |  
+|--------------|-------------|------------------|  
+| [🌿 Organelle Genome Assembly Project](#-organelle-genome-assembly-project) | Assembled plant organelle genomes. | Docker, Conda, GetOrganelle, SPAdes, Ubuntu 20.04 |  
+| [🎵 Music Creation Using AI Tools](#-music-creation-using-ai-tools) | AI-generated music from lyrics. | Suno, Udio, ChatGPT, Generative AI |  
+| [🍵 Tea Recommendation Chatbot](#-tea-recommendation-chatbot) | AI-powered chatbot recommending personalized teas. | RAG, LLM, Llama-3.1-70B, GPT-4, Prompt Engineering |  
+| [📱 Targeted Social Media Marketing Campaign](#-targeted-social-media-marketing-campaign) | Uses data to target specific audiences for personalized messaging. | Python, Pandas, Data Cleaning & Analysis, SMS API |  
+| [📚 Translating PDF e-book to English using OCR and LLMs](#-translating-pdf-e-book-to-english-using-ocr-and-llms) | Translates a Sinhala PDF e-book to English using OCR and LLMs. | OCR (Tesseract), LLM (GPT-4), Python, Prompt Engineering |  
+| [🖼️ Fine-Tuning Stable Diffusion for Personalized Image Generation](#-fine-tuning-stable-diffusion-for-personalized-image-generation) | Fine-tuned Stable Diffusion model for generating personalized images. | Prompt Engineering, Stable Diffusion, Python |  
+| [🤖 Chatbot Development with ChatGPT API](#-chatbot-development-with-chatgpt-api) | Developed a personalized chatbot with distinct personas. | ChatGPT, Prompt Engineering, Python |  
+| [📝 AI-Assisted Data Labeling](#-ai-assisted-data-labeling) | Implemented AI models to assist human labelers, improving labeling efficiency and accuracy. | Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, OCR, Label Studio |  
+| [🩺 Medical Document Patient Information Retrieval using LLM](#-medical-document-patient-information-retrieval-using-llm) | Extracted patient information from medical documents using OCR and LLMs. | RAG, LLM, LLAMA2, llamaindex, BaiduOCR |  
+| [🚗 Number Plate Detection and Recognition](#-number-plate-detection-and-recognition) | Designed and implemented a Chinese number plate detection and recognition system. | CNN, YOLO, OCR, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection |  
+| [🚙 Damage Car Part Detection/Recognition](#-damage-car-part-detection-recognition) | Detects and classifies damaged car parts in accident images. | CNN, YOLO, Keras, TensorFlow, OpenCV, Python, Image Recognition, Object Detection, LabelStudio |  
+| [🚗 Car Part Detection](#-car-part-detection) | Detects visible car parts in images. | YOLO, Keras, TensorFlow, OpenCV, Python, Object Detection |  
+| [🚙 Car Part Segmentation](#-car-part-segmentation) | Segments visible car parts in images using image segmentation models. | UNet, Image Segmentation, OpenCV, Python, TensorFlow, Keras |  
+| [🖼️ Image Categorizers](#-image-categorizers) | Classifies images into categories like car parts, documents, and more. | Custom Classifiers, Python, Image Recognition, Data Labeling |  
+| [🚘 Image Grouping by Car](#-image-grouping-by-car) | Groups jumbled car images by separating them into distinct sets for each car. | YOLO, CNN, KNN, Clustering, Image Recognition, Object Detection |  
+| [📑 Document Classification and OCR](#-document-classification-and-ocr) | Classifies document types and extracts information using OCR. | CNN, Keras, TensorFlow, OpenCV, Python, Image Classification, YOLO, Object Detection, BaiduOCR |  
+| [🔄 Document Orientation Detection and Correction](#-document-orientation-detection-and-correction) | Detects document orientation and corrects rotation errors. | CNN, Keras, TensorFlow, OpenCV, Python, Image Recognition |  
+| [🚗 Car Wheel Alignment Screen Image OCR](#-car-wheel-alignment-screen-image-ocr) | Extracts parameters from wheel alignment machine screen images using OCR. | CNN, Keras, TensorFlow, OpenCV, Python, Image Classification, Object Detection, OCR |  
+| [🩺 Medical Document Classification and OCR](#-medical-document-classification-and-ocr) | Classifies medical documents and extracts information using OCR and keyword search. | CNN, Keras, TensorFlow, OpenCV, Python, OCR |  
+| [♻️ Waste Management Using Blockchain](#-waste-management-using-blockchain) | Proposal for integrating blockchain in waste management. | Blockchain |
+
+
+
+| Project Name | Description | Technologies Used |  
 |-------------|-------------|------------------|  
 | [🌿 Organelle Genome Assembly Project](#-organelle-genome-assembly-project)  | Assembled organelle genomes from plant genomic data to analyze mitochondrial and chloroplast DNA for plant research. | Docker, Conda, GetOrganelle, SPAdes, Ubuntu 20.04, Bioinformatics |  
 | [🎵 Music Creation Using AI Tools](#-music-creation-using-ai-tools) | Used AI tools to generate music from lyrics, supporting various genres and styles. | Suno, Udio, ChatGPT, Generative AI, Music Production |  
