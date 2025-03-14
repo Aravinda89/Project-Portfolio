@@ -26,7 +26,7 @@ This portfolio consists of a compilation of projects that I created for various 
 | Project Name | Description | Technologies Used |  
 |-------------|-------------|------------------|  
 | [🌿 Organelle Genome Assembly Project](#-organelle-genome-assembly-project)  | Assembled organelle genomes from plant genomic data to analyze mitochondrial and chloroplast DNA for plant research. | Docker, Conda, GetOrganelle, SPAdes, Ubuntu 20.04, Bioinformatics |  
-| 🎵 Music Creation Using AI Tools | Used AI tools to generate music from lyrics, supporting various genres and styles. | Suno, Udio, ChatGPT, Generative AI, Music Production |  
+| [🎵 Music Creation Using AI Tools](#-music-creation-using-ai-tools) | Used AI tools to generate music from lyrics, supporting various genres and styles. | Suno, Udio, ChatGPT, Generative AI, Music Production |  
 
 
 
