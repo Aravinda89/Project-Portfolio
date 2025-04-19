@@ -3,6 +3,7 @@
 This portfolio consists of a compilation of projects that I created for various purposes, demonstrating my skills and experiences in different areas..
 
 ## Blog Posts
+* [How to Use Azure Custom Vision API to Classify Images in Python ?](https://medium.com/@aravinda-gn/how-to-use-azure-custom-vision-api-to-classify-images-in-python-710995d5f630)
 * [How to Check and Stop a Training Iteration in Azure Custom Vision with Python ?](https://medium.com/@aravinda-gn/how-to-check-and-stop-a-training-iteration-in-azure-custom-vision-with-python-33c8a9d8b592)
 * [How to Download a Labeled Object Detection Dataset from Azure Custom Vision using API ?](https://aravinda-gn.medium.com/how-to-download-a-labeled-object-detection-dataset-from-azure-custom-vision-using-api-15b83265a914)
 * [How to Download a Labeled Classification Image Dataset from Azure Custom Vision using API ?](https://aravinda-gn.medium.com/how-to-download-a-labeled-image-dataset-from-azure-custom-vision-classification-image-dataset-8e80b5b55fae)
