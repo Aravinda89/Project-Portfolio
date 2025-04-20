@@ -3,6 +3,7 @@
 This portfolio consists of a compilation of projects that I created for various purposes, demonstrating my skills and experiences in different areas..
 
 ## Blog Posts
+* [How to Run an Azure Custom Vision Model Locally Using Python ?(TensorFlow & ONNX)](https://aravinda-gn.medium.com/how-to-run-an-azure-custom-vision-model-locally-using-python-tensorflow-onnx-27dd1ea1c20b)
 * [How to Use Python to Call a Published Azure Custom Vision Model Endpoint?](https://medium.com/@aravinda-gn/how-to-use-azure-custom-vision-api-to-classify-images-in-python-710995d5f630)
 * [How to Check and Stop a Training Iteration in Azure Custom Vision with Python ?](https://medium.com/@aravinda-gn/how-to-check-and-stop-a-training-iteration-in-azure-custom-vision-with-python-33c8a9d8b592)
 * [How to Download a Labeled Object Detection Dataset from Azure Custom Vision using API ?](https://aravinda-gn.medium.com/how-to-download-a-labeled-object-detection-dataset-from-azure-custom-vision-using-api-15b83265a914)
